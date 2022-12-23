@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="default_location">Chicago,IL 6061</string>
+    <string name="default_officialInformation">No data provider</string>
+    <string name="default_search">Enter a City,State or a Zip Code</string>
+    <string name="copyRight">2022 Tuh,Vinh,Luong,Tuan</string>
+    <string name="version">1.0.0</string>
+    <string name="noNetworkTitle">No network connection</string>
+    <string name="noNetworkContent">Stocks cannot be updated without a network connection</string>
+</resources>
